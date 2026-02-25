@@ -1,0 +1,14 @@
+HELP.md
+/backend/target/
+/backend/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+/frontend/node_modules
+
+
+/backend/src/main/resources/application.yaml
+
+### VS Code ###
+/backend/.vscode/
+backend/src/main/resources/application.yaml
